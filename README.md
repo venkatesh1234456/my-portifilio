@@ -2,8 +2,7 @@
 
 This is a personal portfolio website built using HTML, CSS, JavaScript, Bootstrap, and API integration.
 
-## Live Link
-https://file:///C:/dataset/portfolio-main/index.html
+
 
 ## Features
 
